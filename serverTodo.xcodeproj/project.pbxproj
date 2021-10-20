@@ -20,6 +20,7 @@
 		46A01E48271FCDD300F94429 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46A01E47271FCDD300F94429 /* API.swift */; };
 		46ADF997271FE25F009D8A72 /* responseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46ADF996271FE25F009D8A72 /* responseModel.swift */; };
 		46ADF999271FE6A1009D8A72 /* detailTodoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46ADF998271FE6A1009D8A72 /* detailTodoVC.swift */; };
+		46ADF99C271FED0B009D8A72 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46ADF99B271FED0B009D8A72 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		46A01E47271FCDD300F94429 /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
 		46ADF996271FE25F009D8A72 /* responseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = responseModel.swift; sourceTree = "<group>"; };
 		46ADF998271FE6A1009D8A72 /* detailTodoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailTodoVC.swift; sourceTree = "<group>"; };
+		46ADF99B271FED0B009D8A72 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = serverTodo/README.md; sourceTree = "<group>"; };
 		C49DD2480C9CEA4A82D6A466 /* Pods_serverTodo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_serverTodo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 		46A01E18271FCAD900F94429 = {
 			isa = PBXGroup;
 			children = (
+				46ADF99B271FED0B009D8A72 /* README.md */,
 				46A01E23271FCAD900F94429 /* serverTodo */,
 				46A01E22271FCAD900F94429 /* Products */,
 				43F9AF20D09497B0FEDC043F /* Pods */,
@@ -209,6 +212,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46ADF99C271FED0B009D8A72 /* README.md in Resources */,
 				46A01E31271FCADC00F94429 /* LaunchScreen.storyboard in Resources */,
 				46A01E2E271FCADC00F94429 /* Assets.xcassets in Resources */,
 			);
